@@ -1,4 +1,4 @@
 # bakboo.com
-This is the demonstration of my web development skills Using Html and CSS
+A beautiful landing page site. Built with html and css
 
 you can have a look https://gallant-lamport-5515a0.netlify.app/ 
