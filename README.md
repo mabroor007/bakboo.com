@@ -1,6 +1,13 @@
 # bakboo.com
 
-A beautiful landing page site. Built with html and css and used gsap for javascript animations
+A beautiful landing page site. 
+
+#### Built with
+
+- HTML
+- CSS
+- Javascript
+- gsap
 
 # Link 
 
